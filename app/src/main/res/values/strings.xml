@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="introduction">It\'s time for historical question! Answer the questions below. When you think you are right, click on submit button to know the answers and see your points.</string>
+
+    <string name="question_one">Question 1 - Cleopatra was Egyptian.</string>
+    <string name="answer_true">True</string>
+    <string name="answer_false">False</string>
+    <string name="question_one_answer">%1$s! Cleopatra was Greek!</string>
+
+    <string name="question_two">Question 2 - What are the surnames of Bonnie and Clyde?</string>
+    <string name="question_two_first_answer">Parson</string>
+    <string name="question_two_second_answer">Parker</string>
+    <string name="question_two_third_answer">Patterson</string>
+    <string name="question_two_fourth_answer">Barlow</string>
+    <string name="question_two_fifth_answer">Barret</string>
+    <string name="question_two_sixth_answer">Barrow</string>
+    <string name="question_two_answer">%1$s! They was Bonnie Parker and Clyde Barrow!</string>
+
+    <string name="question_three">Question 3 - Joan of Arc, in the 15th century, was the first female promoted to this rank in the French army:</string>
+    <string name="question_three_first_answer">Lieutenant</string>
+    <string name="question_three_second_answer">Sergeant</string>
+    <string name="question_three_third_answer">General</string>
+    <string name="question_three_fourth_answer">Captain</string>
+    <string name="question_three_answer">%1$s! She was the first female promoted to General in the French army!</string>
+
+    <string name="question_four">Question 4 - Prior to 1664 New York was called:</string>
+    <string name="question_four_hint">Your answer here</string>
+    <string name="question_four_answer">%1$s! New York was called Amsterdam!</string>
+    <string name="question_four_correct_answer">Amsterdam</string>
+
+    <string name="action_submit">Submit</string>
+    <string name="answer_correct">Correct</string>
+    <string name="answer_wrong">Wrong</string>
+
+    <string name="result_message">You have answered correctly %1$s question(s) of 4. Your final score is %2$s.</string>
+</resources>
